@@ -342,8 +342,8 @@ const editRecord = (name) => {
 			<div className="header-container">
 				<header>
 					<div className="left">
-					<p className="title">🐱‍👤 Ninja Name Service</p>
-					<p className="subtitle">Your immortal API on the blockchain!</p>
+					<p className="title">🐱‍👤 NinjaDoge name service</p>
+					<p className="subtitle">Let's bark your voice!!!</p>
 					</div>
 					{/* Display a logo and wallet connection status*/}
 					<div className="right">
